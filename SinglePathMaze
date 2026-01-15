@@ -1,0 +1,8 @@
+SinglePathMaze
+Start: 0-0
+End: 0-4
+P,W,W,W,W
+P,P,P,P,W
+W,W,W,P,W
+W,W,W,P,W
+W,W,W,P,P

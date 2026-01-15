@@ -1,0 +1,5 @@
+SameStartEndMaze
+Moves: 1
+Start
+2-2
+End
